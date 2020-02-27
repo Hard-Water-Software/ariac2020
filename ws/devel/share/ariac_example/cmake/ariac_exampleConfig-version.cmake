@@ -1,0 +1,1 @@
+/home/gents/ariac2020/ws/devel/.private/ariac_example/share/ariac_example/cmake/ariac_exampleConfig-version.cmake

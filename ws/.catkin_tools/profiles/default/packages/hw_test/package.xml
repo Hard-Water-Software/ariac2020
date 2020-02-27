@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>hw_test</name>
+  <version>0.1.0</version>
+  <description>An example of an ARIAC competitor's package.</description>
+  <maintainer email="gentsemaj@live.com">Gent Semaj</maintainer>
+  <maintainer email="oadonca@gmail.com">Octavian Donca</maintainer>
+
+  <license>Undefined</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>nist_gear</depend>
+  <depend>roscpp</depend>
+  <depend>sensor_msgs</depend>
+  <depend>std_srvs</depend>
+  <depend>tf2_geometry_msgs</depend>
+  <depend>trajectory_msgs</depend>
+
+</package>

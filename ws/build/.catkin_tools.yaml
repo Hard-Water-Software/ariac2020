@@ -1,0 +1,6 @@
+devel_space: /home/gents/ariac2020/ws/devel
+install: false
+install_space: /home/gents/ariac2020/ws/install
+profile: default
+source_space: /home/gents/ariac2020/ws/src
+workspace: /home/gents/ariac2020/ws

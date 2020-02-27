@@ -1,0 +1,15 @@
+[36mRunning tests...[0m
+/usr/bin/ctest --force-new-ctest-process 
+Test project /home/gents/ariac2020/ws/build/nist_gear
+    Start 1: _ctest_nist_gear_gtest_test_ariac_scorer
+1/1 Test #1: _ctest_nist_gear_gtest_test_ariac_scorer ...***Failed    0.03 sec
+
+0% tests passed, 1 tests failed out of 1
+
+Total Test time (real) =   0.03 sec
+
+The following tests FAILED:
+	  1 - _ctest_nist_gear_gtest_test_ariac_scorer (Failed)
+Errors while running CTest
+Makefile:107: recipe for target 'test' failed
+make: *** [test] Error 8

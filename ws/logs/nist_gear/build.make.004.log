@@ -1,0 +1,100 @@
+[  0%] Built target _nist_gear_generate_messages_check_deps_DroneControl
+[  0%] Built target _nist_gear_generate_messages_check_deps_LogicalCameraImage
+[  0%] Built target _nist_gear_generate_messages_check_deps_Shipment
+[  0%] Built target _nist_gear_generate_messages_check_deps_Product
+[  0%] Built target _nist_gear_generate_messages_check_deps_StorageUnit
+[  0%] Built target _nist_gear_generate_messages_check_deps_SubmitTray
+[  0%] Built target _nist_gear_generate_messages_check_deps_DetectedShipment
+[  0%] Built target _nist_gear_generate_messages_check_deps_DetectedProduct
+[  0%] Built target _nist_gear_generate_messages_check_deps_SubmitShipment
+[  0%] Built target _nist_gear_generate_messages_check_deps_DetectShipment
+[  0%] Built target _nist_gear_generate_messages_check_deps_Order
+[  0%] Built target _nist_gear_generate_messages_check_deps_PopulationControl
+[  0%] Built target _nist_gear_generate_messages_check_deps_VacuumGripperState
+[  0%] Built target _nist_gear_generate_messages_check_deps_AGVControl
+[  0%] Built target _nist_gear_generate_messages_check_deps_Proximity
+[  0%] Built target _nist_gear_generate_messages_check_deps_GetMaterialLocations
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target _nist_gear_generate_messages_check_deps_PopulationState
+[  0%] Built target _nist_gear_generate_messages_check_deps_ConveyorBeltState
+[  0%] Built target _nist_gear_generate_messages_check_deps_VacuumGripperControl
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _nist_gear_generate_messages_check_deps_ConveyorBeltControl
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _nist_gear_generate_messages_check_deps_Model
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  1%] [32mBuilding CXX object CMakeFiles/ProximityRayPlugin.dir/src/ProximityRayPlugin.cc.o[0m
+[  1%] [32mBuilding CXX object CMakeFiles/SideContactPlugin.dir/src/SideContactPlugin.cc.o[0m
+[  1%] [32mBuilding CXX object CMakeFiles/PopulationPlugin.dir/src/PopulationPlugin.cc.o[0m
+[  2%] [32mBuilding CXX object CMakeFiles/SensorBlackoutPlugin.dir/src/SensorBlackoutPlugin.cc.o[0m
+[  2%] [32m[1mLinking CXX shared library /home/gents/ariac2020/ws/devel/.private/nist_gear/lib/libSensorBlackoutPlugin.so[0m
+[  2%] Built target SensorBlackoutPlugin
+[  2%] [32mBuilding CXX object CMakeFiles/VacuumGripperPlugin.dir/src/VacuumGripperPlugin.cc.o[0m
+[  3%] [32m[1mLinking CXX shared library /home/gents/ariac2020/ws/devel/.private/nist_gear/lib/libProximityRayPlugin.so[0m
+[  4%] [32m[1mLinking CXX shared library /home/gents/ariac2020/ws/devel/.private/nist_gear/lib/libPopulationPlugin.so[0m
+[  4%] Built target ProximityRayPlugin
+[  5%] [32mBuilding CXX object CMakeFiles/tf2_relay.dir/src/tf2_relay.cpp.o[0m
+[  5%] Built target PopulationPlugin
+[  5%] [32mBuilding CXX object CMakeFiles/ToggleVisualPlugin.dir/src/ToggleVisualPlugin.cc.o[0m
+[  6%] [32m[1mLinking CXX shared library /home/gents/ariac2020/ws/devel/.private/nist_gear/lib/libSideContactPlugin.so[0m
+[  6%] Built target SideContactPlugin
+[  7%] [32mBuilding CXX object CMakeFiles/LogPlaybackPlugin.dir/src/LogPlaybackPlugin.cc.o[0m
+[  8%] [32m[1mLinking CXX executable /home/gents/ariac2020/ws/devel/.private/nist_gear/lib/nist_gear/tf2_relay[0m
+[  8%] Built target tf2_relay
+[ 22%] Built target nist_gear_generate_messages_lisp
+[ 36%] Built target nist_gear_generate_messages_nodejs
+[ 51%] Built target nist_gear_generate_messages_eus
+[ 66%] Built target nist_gear_generate_messages_py
+[ 80%] Built target nist_gear_generate_messages_cpp
+[ 81%] [32mBuilding CXX object CMakeFiles/ObjectDisposalPlugin.dir/src/ObjectDisposalPlugin.cc.o[0m
+[ 82%] [32m[1mLinking CXX shared library /home/gents/ariac2020/ws/devel/.private/nist_gear/lib/libToggleVisualPlugin.so[0m
+[ 82%] Built target ToggleVisualPlugin
+[ 83%] [32mBuilding CXX object CMakeFiles/ROSLogicalCameraPlugin.dir/src/ROSLogicalCameraPlugin.cc.o[0m
+[ 84%] [32m[1mLinking CXX shared library /home/gents/ariac2020/ws/devel/.private/nist_gear/lib/libVacuumGripperPlugin.so[0m
+[ 84%] [32m[1mLinking CXX shared library /home/gents/ariac2020/ws/devel/.private/nist_gear/lib/libLogPlaybackPlugin.so[0m
+[ 84%] Built target VacuumGripperPlugin
+[ 85%] [32mBuilding CXX object CMakeFiles/ConveyorCongestionPlugin.dir/src/ConveyorCongestionPlugin.cc.o[0m
+[ 85%] Built target LogPlaybackPlugin
+[ 85%] [32mBuilding CXX object CMakeFiles/ConveyorBeltPlugin.dir/src/ConveyorBeltPlugin.cc.o[0m
+[ 86%] [32m[1mLinking CXX shared library /home/gents/ariac2020/ws/devel/.private/nist_gear/lib/libObjectDisposalPlugin.so[0m
+[ 86%] Built target ObjectDisposalPlugin
+[ 88%] [32mBuilding CXX object CMakeFiles/ROSAGVPlugin.dir/src/ROSAGVPlugin.cc.o[0m
+[ 89%] [32m[1mLinking CXX shared library /home/gents/ariac2020/ws/devel/.private/nist_gear/lib/libConveyorBeltPlugin.so[0m
+[ 89%] [32m[1mLinking CXX shared library /home/gents/ariac2020/ws/devel/.private/nist_gear/lib/libConveyorCongestionPlugin.so[0m
+[ 89%] Built target ConveyorCongestionPlugin
+[ 90%] [32mBuilding CXX object CMakeFiles/ROSVacuumGripperPlugin.dir/src/ROSVacuumGripperPlugin.cc.o[0m
+[ 90%] Built target ConveyorBeltPlugin
+[ 91%] [32mBuilding CXX object CMakeFiles/ROSLaserPlugin.dir/src/ROSLaserPlugin.cc.o[0m
+[ 91%] [32m[1mLinking CXX shared library /home/gents/ariac2020/ws/devel/.private/nist_gear/lib/libROSLogicalCameraPlugin.so[0m
+[ 91%] Built target ROSLogicalCameraPlugin
+[ 91%] Built target nist_gear_generate_messages
+[ 91%] [32mBuilding CXX object CMakeFiles/ROSProximityRayPlugin.dir/src/ROSProximityRayPlugin.cc.o[0m
+[ 91%] [32m[1mLinking CXX shared library /home/gents/ariac2020/ws/devel/.private/nist_gear/lib/libROSAGVPlugin.so[0m
+[ 91%] Built target ROSAGVPlugin
+[ 92%] [32mBuilding CXX object CMakeFiles/ROSPopulationPlugin.dir/src/ROSPopulationPlugin.cc.o[0m
+[ 92%] [32m[1mLinking CXX shared library /home/gents/ariac2020/ws/devel/.private/nist_gear/lib/libROSVacuumGripperPlugin.so[0m
+[ 92%] Built target ROSVacuumGripperPlugin
+[ 92%] [32mBuilding CXX object CMakeFiles/AriacScorer.dir/src/AriacScorer.cpp.o[0m
+[ 93%] [32m[1mLinking CXX shared library /home/gents/ariac2020/ws/devel/.private/nist_gear/lib/libROSProximityRayPlugin.so[0m
+[ 94%] [32m[1mLinking CXX shared library /home/gents/ariac2020/ws/devel/.private/nist_gear/lib/libROSPopulationPlugin.so[0m
+[ 94%] Built target ROSProximityRayPlugin
+[ 95%] [32mBuilding CXX object CMakeFiles/ROSAriacKitTrayPlugin.dir/src/ROSAriacKitTrayPlugin.cc.o[0m
+[ 95%] Built target ROSPopulationPlugin
+[ 95%] [32mBuilding CXX object CMakeFiles/ROSConveyorBeltPlugin.dir/src/ROSConveyorBeltPlugin.cc.o[0m
+[ 95%] [32m[1mLinking CXX shared library /home/gents/ariac2020/ws/devel/.private/nist_gear/lib/libROSLaserPlugin.so[0m
+[ 96%] [32m[1mLinking CXX shared library /home/gents/ariac2020/ws/devel/.private/nist_gear/lib/libAriacScorer.so[0m
+[ 96%] Built target AriacScorer
+[ 96%] [32mBuilding CXX object CMakeFiles/ROSAriacTaskManagerPlugin.dir/src/ROSAriacTaskManagerPlugin.cc.o[0m
+[ 96%] Built target ROSLaserPlugin
+[ 97%] [32m[1mLinking CXX shared library /home/gents/ariac2020/ws/devel/.private/nist_gear/lib/libROSConveyorBeltPlugin.so[0m
+[ 97%] Built target ROSConveyorBeltPlugin
+[ 98%] [32m[1mLinking CXX shared library /home/gents/ariac2020/ws/devel/.private/nist_gear/lib/libROSAriacKitTrayPlugin.so[0m
+[ 98%] Built target ROSAriacKitTrayPlugin
+[100%] [32m[1mLinking CXX shared library /home/gents/ariac2020/ws/devel/.private/nist_gear/lib/libROSAriacTaskManagerPlugin.so[0m
+[100%] Built target ROSAriacTaskManagerPlugin

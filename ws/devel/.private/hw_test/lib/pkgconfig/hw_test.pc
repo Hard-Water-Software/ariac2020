@@ -1,0 +1,8 @@
+prefix=/home/gents/ariac2020/ws/devel/.private/hw_test
+
+Name: hw_test
+Description: Description of hw_test
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
